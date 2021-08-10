@@ -1,0 +1,13 @@
+Technologies used in this clone build are as follows:
+
+1. React.js
+2. Next.js
+3. Tailwind CSS
+4. Hero Icons
+5. Vercel (For Deployment)
+6. Mapbox (For adding cool maps)
+7. Server Side Rendering (SSR)
+
+### `Live Website Link`
+
+https://next-js-projects-jitendra3018.vercel.app/
